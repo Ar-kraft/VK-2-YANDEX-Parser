@@ -1,0 +1,381 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.9 (test21)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\USER\PycharmProjects\test21\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/test21/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/test21/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/44070285" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/test21" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (quiz_and_classes)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.0" />
+      <homePath value="C:\Users\USER\PycharmProjects\quiz_and_classes\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/quiz_and_classes/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/quiz_and_classes/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/-876097008" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/quiz_and_classes" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (p-ee)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.0" />
+      <homePath value="C:\Users\USER\PycharmProjects\p-ee\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/p-ee/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/p-ee/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/-1489736359" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/p-ee" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (request_test_netology)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.0" />
+      <homePath value="C:\Users\USER\PycharmProjects\request_test_netology\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/request_test_netology/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/request_test_netology/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/-1019206552" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/request_test_netology" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (request_test)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.0" />
+      <homePath value="C:\Users\USER\PycharmProjects\request_test\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/request_test/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/request_test/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/-1746792578" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/request_test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (venv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.0" />
+      <homePath value="C:\Users\USER\PycharmProjects\VK2YA\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/VK2YA/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/VK2YA/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/628516553" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
