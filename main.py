@@ -1,9 +1,9 @@
 import requests
 from req import YaUploader
-from req import token
+from settings import token
+from settings import token_v
 
 
-token_v = "WRITE YOUR TOKEN HERE"
 #service token to get access
 version = 5.77
 #actual version of API

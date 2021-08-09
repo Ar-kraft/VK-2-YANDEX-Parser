@@ -1,6 +1,6 @@
 import requests
+from settings import token
 
-token="WRITE YOUR TOKEN HERE"
 
 class YaUploader:
     file_path = None
